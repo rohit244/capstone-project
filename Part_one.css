@@ -1,0 +1,35 @@
+body{
+  font-family: 'Oswald', sans-serif;
+  background-color:#8c1aff;
+  color: ;
+  text-align: center;
+  border: 40px solid #2EC486;
+  border-top: 0px;
+  margin: 0px;
+}
+p{
+  font-size: 20px;
+  padding-top:5%;
+  padding-right:20%;
+  padding-left:20%;
+}
+form{
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+#submit{
+  height: 80px;
+  width: 150px;
+  background-color: #FF9F1C;
+  margin: 4px;
+  margin-top: 12px;
+  font-size: 1em;
+  border-radius: 1em;
+}
+#second{
+  padding-top: 5%;
+  padding-right: 20%;
+  padding-left: 20%;
+  font-size: 19px;
+  font-family: 'Indie Flower', cursive;
+}
